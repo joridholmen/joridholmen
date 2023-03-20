@@ -7,7 +7,7 @@
 
 Currently studying 👩‍🏫 at the Norwegian University of Life Sciences, in Ås 🐄.    
   
-I'm currently active [Eik-Lab](https://github.com/Eik-Lab), as a workshop holder, with Arduino and Nordic Semiconductor.  
+I'm currently active at [Eik-Lab](https://github.com/Eik-Lab), as a workshop holder, with Arduino and Nordic Semiconductor.  
   
 Actively using:    
 <space><space><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
