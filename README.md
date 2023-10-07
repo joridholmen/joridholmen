@@ -7,14 +7,15 @@
 
 Currently studying 👩‍🏫 at the Norwegian University of Life Sciences, in Ås 🐄.    
   
-I'm currently active at [Eik-Lab](https://github.com/Eik-Lab), as a workshop holder, with Arduino and Nordic Semiconductor.  
-  
+I'm currently active at [Eik-Lab](https://github.com/Eik-Lab), as a mentor, and at [Gjensidige](https://www.gjensidige.no) using machine learning. 
+
 Actively using:    
 <space><space><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
 
 I'm familiar with:  
 <space><space>  <a href="https://isocpp.org/home/" target="_blank" rel="noreferrer"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="c++" width="40" height="40"/> </a> <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.ros.org/imgs/logo-white.png" alt="ROS" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/>  </a>   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a>
+
 
 Currently learning:  
   <a href="https://www.zephyrproject.org/" target="_blank" rel="noreferrer"> <img src="https://www.zephyrproject.org/wp-content/uploads/sites/38/2021/11/zephyr_logo_r_color_negative_big.svg" alt="zephyr" height="40"/> </a>
