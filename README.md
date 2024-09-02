@@ -7,7 +7,7 @@
 
 Currently studying 👩‍🏫 at the Norwegian University of Life Sciences, in Ås 🐄.    
   
-I'm currently active at [Eik-Lab](https://github.com/Eik-Lab), as a mentor, and at [Gjensidige](https://www.gjensidige.no) using machine learning. 
+I'm currently active at [NMBU](https://www.nmbu.no) as a learning assistant, and at [Telenor](https://www.telenor.no) as a software developer. 
 
 <br>
 
@@ -24,8 +24,8 @@ I'm familiar with:
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/></a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="git" width="40" height="40"/></a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="git" width="40" height="40"/></a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="git" height="40"/></a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/docs/images/kotlin-logo.png" alt="git" height="40"/></a>
 
 
 
@@ -34,7 +34,7 @@ I'm familiar with:
 
 I have experience with these technologies:  
 <a href="https://www.nordicsemi.com"><img src="https://www.nordicsemi.com/-/media/Images/Logos/Logo_Trans_RGB_Vertical-optimized.svg" height="40"/></a> <space> 
-<a href="https://www.arduino.cc"><img src="https://camo.githubusercontent.com/7d9dbbcf5a7b490f91421e97e15d7557569503832667174d0644ac4a5684d641/687474703a2f2f636f6e74656e742e61726475696e6f2e63632f6272616e642f61726475696e6f2d636f6c6f722e737667" height="40"/></a>
+<a href="https://www.arduino.cc"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="40"/></a>
 
 <a href="https://www.st.com/content/st_com/en.html"><img src="https://raw.githubusercontent.com/STMicroelectronics/.github/cf624f9130f544d0833d8049eac2e3767989bc1d/profile/images/st-logo.svg" height="40"/></a> <space>
 <a href="https://new.abb.com/products/robotics/robotstudio"><img src="https://w7.pngwing.com/pngs/924/26/png-transparent-abb-automation-gmbh-abb-group-logo-manufacturing-industry-disney-miscellaneous-company-text-thumbnail.png" height="40"/></a> RobotStudio
